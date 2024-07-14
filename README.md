@@ -1,2 +1,2 @@
 # remittance
-Spring Boot project to imitate inventory mangagement
+Spring Boot project to imitate payment gateway
